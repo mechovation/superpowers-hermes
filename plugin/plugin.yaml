@@ -1,0 +1,8 @@
+name: superpowers
+description: >
+  Process-driven workflow enforcement — nudges the agent toward planning,
+  delegation, verification, and documentation for any multi-step task.
+  Adapted from obra/superpowers for Hermes Agent.
+version: 1.0.0
+author: Hermes Agent
+license: MIT
